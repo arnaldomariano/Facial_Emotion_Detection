@@ -1,7 +1,5 @@
 # Facial_Emotion_Detection
 
-Certainly! Here's a more concise README in English, formatted as a paragraph:
-
 Dataset Description
 This repository contains three datasets for machine learning or computer vision tasks, where images are classified into four distinct classes. The datasets are structured as follows:
 
